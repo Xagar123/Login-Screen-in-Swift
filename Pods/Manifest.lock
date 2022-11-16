@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.10)
+  - TPKeyboardAvoiding (1.3.5)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  TPKeyboardAvoiding: d55b3ea7b362540af8fcf36aa3ed2e87bf210cc6
+
+PODFILE CHECKSUM: a8a38218e9b8b82b654c9c360f5ffd3cc6cc65f8
+
+COCOAPODS: 1.11.3
